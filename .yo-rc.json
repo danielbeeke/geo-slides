@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Creating an interactive map",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "danielbeeke",
+    "githubRepository": "geo-slides"
+  }
+}
